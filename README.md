@@ -8,7 +8,7 @@ To use SQL aggregate functions and grouping techniques to summarize and analyze 
 ---
 
 ## Tools Used
-- MySQL Workbench / DB Browser for SQLite
+- MySQL Workbench 
 - SQL (Structured Query Language)
 
 ---
